@@ -4,7 +4,7 @@ This is a Python app that allows users to view news from various news sources.
 
 ## Author name
 
-[Ryan Curtis Owino]
+Ryan Curtis Owino
 
 ## Project Description
 
