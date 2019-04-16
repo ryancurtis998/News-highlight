@@ -16,7 +16,7 @@ Python 3.6
 
 ## Application requirements
 
-1. Ensure you have Python3.6 installed in your computer. you can download it by running this command
+1. Ensure you have Python3.6 installed  in your computer. you can download it by running this command
 
 `$ sudo apt-get update sudo apt-get install python3.6.`
 
