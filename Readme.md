@@ -1,6 +1,6 @@
 # NEWS HIGHLIGHTS
 
-This is a Python app that allows users to view news from various news sources.
+This is a Python app that allows users to view news from various news  sources.
 
 ## Author name
 
