@@ -8,7 +8,7 @@ Ryan Curtis Owino
 
 ## Project Description
 
-This is an app that allows users to view various news sources and there various articles ranging from general news, sports, entertainment and technology.
+This is an app that allows users to view various news sources and there various articles ranging from general news, sports, entertainment and  technology.
 
 ## Technologies Used
 
