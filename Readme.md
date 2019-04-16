@@ -67,10 +67,6 @@ or just use this
 
 `$ python3.6 manager.py test`
 
-## Live link
-
-Use this link to see the web-page
-
 
 
 ## Contact Information
