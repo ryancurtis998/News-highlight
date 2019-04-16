@@ -24,4 +24,4 @@ class Article:
 		self.description = description
 		self.publishedAt = publishedAt
 		self.urlToImage = urlToImage
-self.url = url
+		self.url = url

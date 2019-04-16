@@ -22,7 +22,7 @@ def sport():
 
 	general_news = get_news('sports')
 	title = 'general-news Page - Get The latest News Online'
-	return render_template('sport.html',title = title,sports=general_news)
+	return render_template('sports.html',title = title,sports=general_news)
 
 @main.route('/tech')
 def tech():
@@ -58,6 +58,6 @@ def entertainment():
 @main.route('/')
 def index():
 
-    news_article = get_article('article')
+    news_article = get_article('bitcoin')
     title = 'Home Page - Get The latest News Online'
     return render_template('index.html',title = title, article=news_article)
