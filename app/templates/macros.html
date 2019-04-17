@@ -5,8 +5,10 @@
   <p><a href="{{news.url}}" target="_blank">
       <h1>{{ news.name}}</h1>
     </a></p>
-    
-  <p >{{news.description}}</p>
+    <div class="panel-body">
+      <p class="card-text">{{news.description}}</p>
+    </div>
+  
 
 </div>
 {% endfor %}
